@@ -4,5 +4,7 @@ id: "ikurtz-cbci-casc-24-dev-controller"
 description: "CloudBees CI configuration bundle for the ikurtz-cbci-casc-24 dev-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/ikurtz-cbci-casc-24/dev-controller"
 parent: "base"
+jcasc:
+  - "jcasc/"
 rbac:
   - "rbac.yaml"
