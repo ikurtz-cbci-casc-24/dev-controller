@@ -1,0 +1,4 @@
+variables:
+- team: ikurtz-cbci-casc-24
+- admin-user: ikurtz-admin
+- manager-user: ikurtz
